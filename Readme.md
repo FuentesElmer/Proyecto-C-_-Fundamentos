@@ -1,12 +1,12 @@
-#Proyecto C
+# Proyecto C
 Conversor de Monedas por medio de un programa compilado
 
-##Prerequisito 
+## Prerequisito 
 Tener visual studio code,
 Instalador de C/c++
 Remote ssh
 
-##Pasos para la ejecucion
+## Pasos para la ejecucion
 Entrar a la maquina virtual
 iniciar visual studio code
 Ubicar la ruta del archivo
